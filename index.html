@@ -74,7 +74,7 @@
         <div class="banner">
             <h2>Bienvenido</h2>
         </div>
-        <form>
+        <form onsubmit="checkCredentials(event)">
             <label for="username">Usuario:</label>
             <input type="text" id="username" name="username" required>
 
@@ -87,5 +87,20 @@
             ¿No tienes una cuenta? <a href="registro.html">Regístrate aquí</a>
         </div>
     </div>
+    <script>
+        function checkCredentials(event) {
+            event.preventDefault();
+
+            var usernameInput = document.getElementById("username").value;
+            var passwordInput = document.getElementById("password").value;
+
+            if (usernameInput === "admin" && passwordInput === "admin") {
+                alert("¡Inicio de sesión exitoso!");
+                window.location.href = "traductor.html";
+            } else {
+                alert("Credenciales incorrectas. Puedes intentar con Usuario: admin Contraseña: admin.");
+            }
+        }
+    </script>
 </body>
 </html>
