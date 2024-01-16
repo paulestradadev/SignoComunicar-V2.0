@@ -1,5 +1,7 @@
 # SignoComunicar
 
+[![Signo-Comunicar.png](https://i.postimg.cc/ydLgmZLQ/Signo-Comunicar.png)](https://postimg.cc/xJb1YcDM)
+
 SignoComunicar es una plataforma en línea diseñada para facilitar la comunicación entre personas sordas o con discapacidades auditivas y aquellos que utilizan el lenguaje de señas. La aplicación permite traducir texto escrito a lenguaje de señas, ofreciendo una experiencia de usuario accesible e inclusiva.
 
 ## Características
@@ -27,4 +29,3 @@ SignoComunicar es una plataforma en línea diseñada para facilitar la comunicac
 - HTML
 - CSS
 - Javascript
-[![Signo-Comunicar.png](https://i.postimg.cc/ydLgmZLQ/Signo-Comunicar.png)](https://postimg.cc/xJb1YcDM)
