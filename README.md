@@ -27,4 +27,4 @@ SignoComunicar es una plataforma en línea diseñada para facilitar la comunicac
 - HTML
 - CSS
 - Javascript
-
+[![Signo-Comunicar.png](https://i.postimg.cc/ydLgmZLQ/Signo-Comunicar.png)](https://postimg.cc/xJb1YcDM)
